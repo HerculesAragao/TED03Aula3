@@ -1,0 +1,5 @@
+Questão 1 - PorquenPayton é considerado uma dos principais linguagens nos últimos 10 anos?
+	Por que é uma linguagem de programação bastante flexível amplamente usada, é eficiente e fácil de aprender e pode 	ser executada em muitas plataformas.
+
+Questão 2 - Cite tres plataformas IDEs em que podemos desenvolver programas em linguagens Python.
+	Plataformas VSCode, Pycharm e Microsoft Python.
